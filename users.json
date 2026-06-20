@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1704123456789",
+    "name": "Aravind",
+    "email": "aravind1@gmail.com",
+    "password": "12345678",
+    "createdAt": "2024-01-01T10:00:00.000Z"
+  },
+  {
+    "id": "1704123456790",
+    "name": "John Doe",
+    "email": "john@test.com",
+    "password": "password123",
+    "role": "user",
+    "createdAt": "2024-01-01T10:00:00.000Z"
+  },
+  {
+    "id": "1704123456791",
+    "name": "Admin User",
+    "email": "admin@autoparts.com",
+    "password": "adminpassword123",
+    "role": "admin",
+    "createdAt": "2024-01-01T10:00:00.000Z"
+  }
+]

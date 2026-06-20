@@ -2,137 +2,49 @@
   {
     "card": {
       "card": {
-        "title": "Recommended",
+        "title": "Engine Parts",
         "itemCards": [
           {
             "card": {
               "info": {
-                "id": "120582088",
-                "name": "La Mushroom Pizza",
-                "category": "Pizza",
-                "imgName": "pizza.jpeg",
-                "description": "Farm Mushroom  freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imageId": "pxpt61trmyelbdtnwfhi",
-                "inStock": 1,
-                "isVeg": 1,
-                "rating": "4.3",
+                "id": "AP001",
+                "name": "Complete Engine Assembly 1.6L DOHC",
+                "category": "Engine",
+                "imgName": "car_engine.png",
+                "description": "Brand new 1.6L DOHC engine assembly with warranty. Includes all internal components, gaskets, and seals. Perfect for engine replacement or rebuild projects.",
+                "inStock": 5,
+                "rating": "4.8",
+                "ratingCount": "15 ratings",
+                "ratingCountV2": "15",
+                "defaultPrice": 185000,
+                "specifications": {
+                  "displacement": "1.6L",
+                  "type": "DOHC",
+                  "cylinders": "4",
+                  "warranty": "2 years"
+                }
+              }
+            }
+          },
+          {
+            "card": {
+              "info": {
+                "id": "AP002",
+                "name": "V8 Twin Turbo Engine Assembly",
+                "category": "Engine",
+                "imgName": "car_engine.png",
+                "description": "Premium V8 twin-turbocharged high-performance engine assembly. Delivers incredible horsepower, torque, and sound. Engineered for elite sports cars.",
+                "inStock": 2,
+                "rating": "4.9",
                 "ratingCount": "8 ratings",
                 "ratingCountV2": "8",
-                "defaultPrice": 12500
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582113",
-                "name": "La Capsicum Pizza",
-                "category": "Pizza",
-                "description": "Roasted capsicum freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imgName": "all.jpeg",
-                "inStock": 1,
-                "isVeg": 1,
-                "variants": {},
-                "defaultPrice": 12500
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582220",
-                "name": "La Onion Pizza",
-                "category": "Pizza",
-                "description": "Caramalized onion freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imageId": "wivta0yxoknuluwfldef",
-                "defaultPrice": 12500
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582236",
-                "name": "La Pineapple Pizza",
-                "category": "Pizza",
-                "description": "Pineapple  freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imgName": "curry.jpeg",
-                "inStock": 1,
-                "isVeg": 1,
-                "defaultPrice": 12500,
-                "rating": "3.5",
-                "ratingCount": "3 ratings",
-                "ratingCountV2": "3"
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582236",
-                "name": "Makhni Paneer Pizza",
-                "category": "Pizza",
-                "description": "Pineapple  freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imgName": "burger.jpeg",
-                "inStock": 1,
-                "isVeg": 1,
-                "defaultPrice": 12500,
-                "rating": "3.5",
-                "ratingCount": "3 ratings",
-                "ratingCountV2": "3"
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582236",
-                "name": "Butter Chicken Pizza",
-                "category": "Pizza",
-                "description": "Pineapple  freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imgName": "chow.jpeg",
-                "inStock": 1,
-                "isVeg": 1,
-                "defaultPrice": 12500,
-
-                "rating": "3.5",
-                "ratingCount": "3 ratings",
-                "ratingCountV2": "3"
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582236",
-                "name": "Bhuna Murg Pizza",
-                "category": "Pizza",
-                "description": "Pineapple  freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imgName": "thali.jpeg",
-                "inStock": 1,
-                "isVeg": 1,
-                "defaultPrice": 12500,
-
-                "rating": "3.5",
-                "ratingCount": "3 ratings",
-                "ratingCountV2": "3"
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582236",
-                "name": "Chicken Lahori Pizza",
-                "category": "Pizza",
-                "description": "Pineapple  freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imgName": "food.jpeg",
-                "inStock": 1,
-                "isVeg": 1,
-                "defaultPrice": 12500,
-                "rating": "3.5",
-                "ratingCount": "3 ratings",
-                "ratingCountV2": "3"
+                "defaultPrice": 450000,
+                "specifications": {
+                  "displacement": "4.0L",
+                  "type": "Twin Turbo V8",
+                  "cylinders": "8",
+                  "warranty": "3 years"
+                }
               }
             }
           }
@@ -143,199 +55,49 @@
   {
     "card": {
       "card": {
-        "title": "Say Cheese",
+        "title": "Filters",
         "itemCards": [
           {
             "card": {
               "info": {
-                "id": "120582089",
-                "name": "La Mushroom Pizza",
-                "category": "Pizza",
-                "description": "Farm Mushroom  freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imgName": "pizza.jpeg",
-                "inStock": 1,
-                "isVeg": 1,
-                "rating": "4.3",
-                "ratingCount": "8 ratings",
-                "ratingCountV2": "8",
-                "defaultPrice": 12500
+                "id": "AP003",
+                "name": "High Performance Air Filter",
+                "category": "Filters",
+                "description": "Premium high-flow washable air filter for maximum airflow and engine protection. Increases horsepower and fuel efficiency while providing superior filtration.",
+                "imgName": "air_filter.png",
+                "inStock": 25,
+                "defaultPrice": 2800,
+                "rating": "4.6",
+                "ratingCount": "42 ratings",
+                "ratingCountV2": "42",
+                "specifications": {
+                  "type": "High-flow cotton gauze",
+                  "washable": "Yes",
+                  "lifespan": "50,000 km",
+                  "compatibility": "Universal fit"
+                }
               }
             }
           },
           {
             "card": {
               "info": {
-                "id": "120582112",
-                "name": "La Capsicum Pizza",
-                "category": "Pizza",
-                "description": "Roasted capsicum freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imgName": "food.jpeg",
-                "inStock": 1,
-                "isVeg": 1,
-                "variants": {},
-                "defaultPrice": 12500
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582221",
-                "name": "La Onion Pizza",
-                "category": "Pizza",
-                "description": "Caramalized onion freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imageId": "wivta0yxoknuluwfldef",
-                "defaultPrice": 12500
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582236",
-                "name": "La Pineapple Pizza",
-                "category": "Pizza",
-                "description": "Pineapple  freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imgName": "all.jpeg",
-                "inStock": 1,
-                "isVeg": 1,
-                "defaultPrice": 12500,
-                "rating": "3.5",
-                "ratingCount": "3 ratings",
-                "ratingCountV2": "3"
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582236",
-                "name": "Makhni Paneer Pizza",
-                "category": "Pizza",
-                "description": "Pineapple  freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imgName": "burger.jpeg",
-                "inStock": 1,
-                "isVeg": 1,
-                "defaultPrice": 12500,
-                "rating": "3.5",
-                "ratingCount": "3 ratings",
-                "ratingCountV2": "3"
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582236",
-                "name": "Butter Chicken Pizza",
-                "category": "Pizza",
-                "description": "Pineapple  freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imgName": "thali.jpeg",
-                "inStock": 1,
-                "isVeg": 1,
-                "defaultPrice": 12500,
-                "rating": "3.5",
-                "ratingCount": "3 ratings",
-                "ratingCountV2": "3"
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582236",
-                "name": "Bhuna Murg Pizza",
-                "category": "Pizza",
-                "description": "Pineapple  freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imgName": "curry.jpeg",
-                "inStock": 1,
-                "isVeg": 1,
-                "defaultPrice": 12500,
-                "rating": "3.5",
-                "ratingCount": "3 ratings",
-                "ratingCountV2": "3"
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582236",
-                "name": "Chicken Lahori Pizza",
-                "category": "Pizza",
-                "description": "Pineapple  freshly baked Pizza with secret recipe cheesy, spicy & creamy jalapeno cheese sauce sprinkled with 100% mozarella cheese and served with inhouse Chilli flakes & Oregano seasoning",
-                "imgName": "chow.jpeg",
-                "inStock": 1,
-                "isVeg": 1,
-                "defaultPrice": 12500,
-                "rating": "3.5",
-                "ratingCount": "3 ratings",
-                "ratingCountV2": "3"
-              }
-            }
-          }
-        ]
-      }
-    }
-  },
-
-  {
-    "card": {
-      "card": {
-        "title": "Family Combo",
-        "itemCards": [
-          {
-            "card": {
-              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
-              "info": {
-                "id": "120582259",
-                "name": "Pizza Combo",
-                "category": "Family Combo",
-                "description": "7\" Pizza + Potato Wedges (1 Dip) + Pepsi + Choco Lava Cake",
-                "imgName": "food.jpeg",
-                "inStock": 1,
-                "isVeg": 1,
-                "defaultPrice": 54900
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582260",
-                "name": "Garlic Bread Combo",
-                "category": "Family Combo",
-                "description": "7\" Pizza + Stuffed Garlic Bread (1 Dip) + Potato Wedges (1 Dip) + Pepsi + Choco Lava Cake",
-                "imgName": "pizza.jpeg",
-                "inStock": 1,
-                "isVeg": 1,
-                "defaultPrice": 64900
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582265",
-                "name": "Small Family Meal",
-                "category": "Family Combo",
-                "description": "7\" Pizza + Stuffed Garlic Bread (1 Dip) + Chicken Wings (2 Dips) + Potato Wedges (1 Dip) + 2 Pepsi + 2 Choco Lava Cake",
-                "imgName": "all.jpeg",
-                "inStock": 1,
-                "defaultPrice": 84900
-              }
-            }
-          },
-          {
-            "card": {
-              "info": {
-                "id": "120582267",
-                "name": "Large Family Meal",
-                "category": "Family Combo",
-                "description": "14\" Pizza + Stuffed Garlic Bread (1 Dip) + Chicken Wings (2 Dips) + Potato Wedges (1 Dip) + 2 Pepsi + 2 Choco Lava Cake",
-                "imgName": "thali.jpeg",
-                "inStock": 1,
-                "defaultPrice": 129900
+                "id": "AP004",
+                "name": "Carbon Fiber Cabin Air Filter",
+                "category": "Filters",
+                "description": "Activated carbon cabin air filter to keep passenger compartment air fresh, filtering out pollen, dust, and exhaust odors.",
+                "imgName": "air_filter.png",
+                "inStock": 40,
+                "defaultPrice": 1500,
+                "rating": "4.5",
+                "ratingCount": "19 ratings",
+                "ratingCountV2": "19",
+                "specifications": {
+                  "type": "Activated Carbon",
+                  "washable": "No",
+                  "lifespan": "15,000 km",
+                  "compatibility": "Universal fit"
+                }
               }
             }
           }
@@ -346,34 +108,203 @@
   {
     "card": {
       "card": {
-        "title": "Kids Combo",
+        "title": "Electrical System",
         "itemCards": [
           {
             "card": {
-              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
               "info": {
-                "id": "123190540",
-                "name": "Non Veg Combo",
-                "category": "Kids Combo",
-                "description": "(Chicken Ham + Corn Monster Slice + 1 Chocolava + 1 Mocktail )",
-                "inStock": 1,
-                "imgName": "pizza.jpeg",
-                "defaultPrice": 29900
+                "id": "AP005",
+                "name": "Iridium Spark Plugs Set",
+                "category": "Electrical",
+                "description": "Premium iridium spark plugs for superior ignition performance. Longer lasting than standard plugs with improved fuel economy and reduced emissions.",
+                "imgName": "spark_plug.png",
+                "inStock": 30,
+                "defaultPrice": 3200,
+                "rating": "4.7",
+                "ratingCount": "28 ratings",
+                "ratingCountV2": "28",
+                "specifications": {
+                  "material": "Iridium electrode",
+                  "gap": "0.8mm",
+                  "lifespan": "100,000 km",
+                  "quantity": "4 pieces"
+                }
               }
             }
           },
           {
             "card": {
-              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
               "info": {
-                "id": "123190541",
-                "name": "Veg Combo",
-                "category": "Kids Combo",
-                "imgName": "burger.jpeg",
-                "description": "(Pineapple + Corn Monster Slice + 1 Chocolava + 1 Mocktail )",
-                "inStock": 1,
-                "isVeg": 1,
-                "defaultPrice": 29900
+                "id": "AP006",
+                "name": "Premium Laser Spark Plugs Set",
+                "category": "Electrical",
+                "description": "State-of-the-art laser iridium spark plugs for high energy spark and complete fuel combustion, providing maximum throttle response.",
+                "imgName": "spark_plug.png",
+                "inStock": 18,
+                "defaultPrice": 4800,
+                "rating": "4.8",
+                "ratingCount": "12 ratings",
+                "ratingCountV2": "12",
+                "specifications": {
+                  "material": "Laser Iridium Platinum",
+                  "gap": "1.1mm",
+                  "lifespan": "120,000 km",
+                  "quantity": "4 pieces"
+                }
+              }
+            }
+          },
+          {
+            "card": {
+              "info": {
+                "id": "AP007",
+                "name": "Premium LED Headlight Assembly",
+                "category": "Electrical",
+                "description": "Futuristic LED headlight assembly featuring ultra-bright white projector beams, DRL strip, and animated start-up sequence.",
+                "imgName": "led_headlight.png",
+                "inStock": 12,
+                "rating": "4.7",
+                "ratingCount": "35 ratings",
+                "ratingCountV2": "35",
+                "defaultPrice": 15000,
+                "specifications": {
+                  "type": "Full LED Projector",
+                  "brightness": "8000 lumens",
+                  "color": "6000K Diamond White",
+                  "warranty": "2 years"
+                }
+              }
+            }
+          },
+          {
+            "card": {
+              "info": {
+                "id": "AP008",
+                "name": "Dual Projector Headlight Set",
+                "category": "Electrical",
+                "description": "Dual projector LED headlight replacement set. Enhances nighttime visibility by 200% with wide dispersion angle.",
+                "imgName": "led_headlight.png",
+                "inStock": 6,
+                "rating": "4.6",
+                "ratingCount": "22 ratings",
+                "ratingCountV2": "22",
+                "defaultPrice": 24000,
+                "specifications": {
+                  "type": "Dual Projector LED",
+                  "brightness": "12000 lumens",
+                  "color": "5500K Warm White",
+                  "warranty": "2 years"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "card": {
+      "card": {
+        "title": "Batteries",
+        "itemCards": [
+          {
+            "card": {
+              "info": {
+                "id": "AP009",
+                "name": "Maintenance-Free AGM Battery",
+                "category": "Batteries",
+                "description": "High-capacity 12V maintenance-free battery with advanced AGM technology. Long-lasting performance with excellent cold cranking power and vibration resistance.",
+                "imgName": "car_battery.png",
+                "inStock": 15,
+                "rating": "4.8",
+                "ratingCount": "67 ratings",
+                "ratingCountV2": "67",
+                "defaultPrice": 8500,
+                "specifications": {
+                  "voltage": "12V",
+                  "capacity": "65Ah",
+                  "cca": "650A",
+                  "type": "AGM maintenance-free",
+                  "warranty": "3 years"
+                }
+              }
+            }
+          },
+          {
+            "card": {
+              "info": {
+                "id": "AP010",
+                "name": "Heavy Duty AGM Truck Battery",
+                "category": "Batteries",
+                "description": "Extra heavy duty AGM battery designed for commercial trucks and SUVs. Provides unmatched cranking power in extreme temperatures.",
+                "imgName": "car_battery.png",
+                "inStock": 8,
+                "rating": "4.9",
+                "ratingCount": "31 ratings",
+                "ratingCountV2": "31",
+                "defaultPrice": 14500,
+                "specifications": {
+                  "voltage": "12V",
+                  "capacity": "95Ah",
+                  "cca": "900A",
+                  "type": "Heavy Duty AGM",
+                  "warranty": "3 years"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "card": {
+      "card": {
+        "title": "Tyres & Wheels",
+        "itemCards": [
+          {
+            "card": {
+              "info": {
+                "id": "AP011",
+                "name": "All-Season Radial Tyre",
+                "category": "Tires",
+                "description": "Premium all-season radial tyre with advanced tread compound for excellent grip in wet and dry conditions. Long-lasting with low rolling resistance for fuel efficiency.",
+                "imgName": "car_tyre.png",
+                "inStock": 20,
+                "rating": "4.6",
+                "ratingCount": "89 ratings",
+                "ratingCountV2": "89",
+                "defaultPrice": 6800,
+                "specifications": {
+                  "size": "195/65R15",
+                  "type": "Radial tubeless",
+                  "pattern": "All-season tread",
+                  "loadIndex": "91H",
+                  "warranty": "5 years"
+                }
+              }
+            }
+          },
+          {
+            "card": {
+              "info": {
+                "id": "AP012",
+                "name": "Performance Sport Grip Tyre Set",
+                "category": "Tires",
+                "description": "Ultra high-performance tyre set designed for track and sport street driving. Delivers unmatched cornering traction and high speed stability.",
+                "imgName": "car_tyre.png",
+                "inStock": 10,
+                "rating": "4.9",
+                "ratingCount": "41 ratings",
+                "ratingCountV2": "41",
+                "defaultPrice": 32000,
+                "specifications": {
+                  "size": "245/40R18",
+                  "type": "High performance tubeless",
+                  "pattern": "Sport asymmetric tread",
+                  "loadIndex": "97Y",
+                  "warranty": "3 years"
+                }
               }
             }
           }
